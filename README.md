@@ -4,7 +4,7 @@ I have a PhD in philosophy from Yale University and spent the last five years wo
 
 Some of my recent interests include:
 
-* Peer to peer networks: Check out my BitTorrent tracker [etracker](https://github.com/dmoerner/etracker).
+* Peer to peer networks: Check out my BitTorrent tracker [etracker](https://github.com/dmoerner/etracker) and my BitTorrent client [pytorrent](https://github.com/dmoerner/pytorrent), which was developed jointly with [Lamone Armstrong](https://github.com/l-armstrong)
 * Games or projects designed to be frustrating or annoying: I've written an idle clicker [svelteclick](https://github.com/dmoerner/svelteclick) and a dissonant music generator [badbach](https://github.com/dmoerner/badbach).
 * Database design, especially at scale.
 
